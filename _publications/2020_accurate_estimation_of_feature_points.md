@@ -1,5 +1,5 @@
 ---
-title: "Accurate estimation of feature points based on individual projective plane in video sequence"
+title: "Accurate Estimation of Feature Points based on Individual Projective Plane in Video Sequence"
 collection: publications
 category: manuscripts
 permalink: /publication/2020_accurate_estimation_of_feature_points
