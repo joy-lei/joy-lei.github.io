@@ -1,5 +1,5 @@
 ---
-title: "Single-image depth estimation by refined segmentation and consistency reconstruction"
+title: "Single-Image Depth Estimation by Refined Segmentation and Consistency Reconstruction"
 collection: publications
 category: manuscripts
 permalink: /publication/2021_single_image_depth_estimation
