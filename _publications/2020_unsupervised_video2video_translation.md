@@ -1,5 +1,5 @@
 ---
-title: "Unsupervised video-to-video translation with preservation of frame modification tendency"
+title: "Unsupervised Video-to-Video Translation with Preservation of Frame Modification Tendency"
 collection: publications
 category: manuscripts
 permalink: /publication/2020_unsupervised_video2video_translation
