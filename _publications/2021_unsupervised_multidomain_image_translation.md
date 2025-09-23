@@ -1,5 +1,5 @@
 ---
-title: "Unsupervised multi-domain image translation with domain representation learning"
+title: "Unsupervised Multi-Domain Image Translation with Domain Representation Learning"
 collection: publications
 category: manuscripts
 permalink: /publication/2021_unsupervised_multidomain_image_translation
