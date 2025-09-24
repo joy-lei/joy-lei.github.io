@@ -9,7 +9,7 @@ redirect_from:
 
 Biography
 ======
-I received my M.Eng. in Software Engineering from Wuhan University and my B.Eng. in Microelectronics from Nanjing University of Aeronautics and Astronautics. During my master’s studies, I conducted research in computer vision, which helped me build skills in experimental design, collaboration, and academic writing.
+I received a M.Eng. in Software Engineering from Wuhan University in 2021, and a B.Eng. in Microelectronics from Nanjing University of Aeronautics and Astronautics in 2015. During my master’s studies, I conducted research in computer vision, which helped me build skills in experimental design, collaboration, and academic writing.
 
 I am currently a software product manager with experience in industrial IoT and energy management systems. My academic background in software engineering and professional practice in product design and solution engineering jointly shape my research interests in human–computer interaction and human–centric software engineering.
 
