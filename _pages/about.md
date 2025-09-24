@@ -1,25 +1,23 @@
 ---
 permalink: /
-title: "Biography"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I hold an M.Eng. in Software Engineering from Wuhan University (2019–2021) and a B.Eng. in Microelectronics from Nanjing University of Aeronautics and Astronautics (2011–2015).
+Biography
+======
+I received my M.Eng. in Software Engineering from Wuhan University and my B.Eng. in Microelectronics from Nanjing University of Aeronautics and Astronautics. During my master’s studies, I conducted research in computer vision, which helped me build skills in experimental design, collaboration, and academic writing.
 
-Currently, I work at CHINT, where I transitioned from software product management in the Low-Voltage R&D Center (Shanghai) to a solutions engineering role in the APAC R&D Center (Singapore). My work spans the design of intelligent power distribution software and the delivery of localized industrial IoT solutions across Southeast Asia.
+I am currently a software product manager with experience in industrial IoT and energy management systems. My academic background in software engineering and professional practice in product design and solution engineering jointly shape my research interests in human–computer interaction and human–centric software engineering.
 
 Research Interests
 ======
-My research interests lie in human–computer interaction (HCI) and human-centric software engineering (HCSE). I am particularly interested in how complex socio-technical systems—such as industrial IoT platforms and energy management systems—can be designed to support diverse user roles, enhance usability, and improve decision-making in cross-cultural contexts.
+My research interests include human–computer interaction, human–centric software engineering, and cross-cultural usability in industrial IoT systems. I am particularly interested in how complex socio-technical systems such as industrial IoT platforms can be designed to support diverse user roles, enhance usability, and improve decision-making in complex, real-world contexts.
 
 Current Goal
 ======
-I am currently preparing applications for PhD studies starting in Fall 2026, aiming to contribute research at the intersection of HCI, HCSE, and digital transformation of industrial systems.
-
-
-
-
+I am preparing to pursue a PhD in the field of human–computer interaction, aiming to advance knowledge at the intersection of research and practice and to contribute to both academia and industry.
 
